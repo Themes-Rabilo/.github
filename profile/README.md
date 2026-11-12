@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://themesrabilo.com/">
-    <img src="YOUR_BANNER_IMAGE_URL" alt="ThemesRabilo Banner" width="100%" />
+    <img src="../banner-youtube.png" alt="ThemesRabilo Banner" width="100%" />
   </a>
 </p>
 
